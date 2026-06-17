@@ -2,15 +2,15 @@
 
 An AI-powered Voice Assistant built using Python, Ollama, and Phi-3 Mini. The assistant can listen to user queries, process them using a locally running Large Language Model (LLM), and respond with voice output.
 
-## 🚀 Features
+##  Features
 
-* 🎤 Voice Input using Microphone
-* ⌨️ Text-based Input Option
-* 🤖 AI-Powered Responses using Phi-3 Mini
-* 🔊 Text-to-Speech Output
-* 📝 Conversation Logging
-* 💻 Fully Local Execution
-* 🔒 No Paid API Required
+*  Voice Input using Microphone
+*  Text-based Input Option
+*  AI-Powered Responses using Phi-3 Mini
+*  Text-to-Speech Output
+*  Conversation Logging
+*  Fully Local Execution
+*  No Paid API Required
 
 
 ## 🛠️ Tech Stack
@@ -40,42 +40,18 @@ An AI-powered Voice Assistant built using Python, Ollama, and Phi-3 Mini. The as
 * Git
 * GitHub
 
----
-
-## 📂 Project Structure
-
-text
-AI-Voice-Assistant/
-│
-├── main.py
-├── model.py
-├── listen.py
-├── speak.py
-├── save.py
-├── index.html
-├── README.md
-└── .gitignore
-
-
-
-## ⚙️ Installation
-
 ### Clone Repository
 git clone https://github.com/AmanVermaPortfolio/AI-Voice-Assistant.git
-
-### Move into Project Folder
-cd AI-Voice-Assistant
-
 
 ### Install Dependencie
 pip install speechrecognition pyttsx3 ollama
 
-## ▶️ Run the Project
+##  Run the Project
 python main.py
 
 
 
-## 🔄 Workflow
+##  Workflow
 
 User Voice
 ↓
@@ -95,7 +71,7 @@ Voice Output
 
 
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Large Language Models (LLMs)
 * Ollama Integration
@@ -106,7 +82,7 @@ Voice Output
 
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Conversation Memory
 * Wake Word Detection
@@ -117,7 +93,7 @@ Voice Output
 
 
 
-## 👨‍💻 Author
+##  Author
 
 Aman Verma
 
