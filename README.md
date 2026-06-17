@@ -12,7 +12,6 @@ An AI-powered Voice Assistant built using Python, Ollama, and Phi-3 Mini. The as
 * 💻 Fully Local Execution
 * 🔒 No Paid API Required
 
----
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +44,7 @@ An AI-powered Voice Assistant built using Python, Ollama, and Phi-3 Mini. The as
 
 ## 📂 Project Structure
 
-```text
+text
 AI-Voice-Assistant/
 │
 ├── main.py
@@ -56,39 +55,25 @@ AI-Voice-Assistant/
 ├── index.html
 ├── README.md
 └── .gitignore
-```
 
----
+
 
 ## ⚙️ Installation
 
 ### Clone Repository
-
-```bash
 git clone https://github.com/AmanVermaPortfolio/AI-Voice-Assistant.git
-```
 
 ### Move into Project Folder
-
-```bash
 cd AI-Voice-Assistant
-```
 
-### Install Dependencies
 
-```bash
+### Install Dependencie
 pip install speechrecognition pyttsx3 ollama
-```
-
----
 
 ## ▶️ Run the Project
-
-```bash
 python main.py
-```
 
----
+
 
 ## 🔄 Workflow
 
@@ -130,7 +115,7 @@ Voice Output
 * Multi-LLM Support
 * Streamlit Web Interface
 
----
+
 
 ## 👨‍💻 Author
 
